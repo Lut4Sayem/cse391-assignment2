@@ -1,3 +1,4 @@
+Live link: https://cse391-02.netlify.app/
 CSE 391 – Programming for the Internet
 Assignment 2 – JavaScript Programming
 
