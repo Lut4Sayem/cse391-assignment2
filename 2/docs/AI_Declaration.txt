@@ -1,0 +1,64 @@
+============================================================
+                  AI USAGE DECLARATION
+============================================================
+
+Name: MD. Lutfur Rahman
+Student ID: 23101029
+Assignment: CSE 391 – Assignment 2 (JavaScript Programming)
+Date: 07/06/2026
+
+------------------------------------------------------------
+1. AI TOOLS USED
+------------------------------------------------------------
+[X] ChatGPT
+[ ] GitHub Copilot
+[ ] Google Gemini
+[ ] Claude
+[ ] Cursor
+[ ] Other: ________________
+
+------------------------------------------------------------
+2. PURPOSE OF AI USE
+------------------------------------------------------------
+[X] Learning/understanding concepts
+[X] Debugging my code
+[X] Generating code snippets
+[X] Design/styling ideas
+[ ] Writing text content
+[ ] Image generation
+[ ] Other: ________________
+
+------------------------------------------------------------
+3. DESCRIPTION OF AI USE
+------------------------------------------------------------
+I used ChatGPT as a guided tutor while completing this assignment.
+It was mainly used to:
+
+- Explain JavaScript concepts such as DOM manipulation,
+  event listeners, setInterval(), clearInterval(), and localStorage.
+- Help debug issues and understand the causes of errors.
+- Suggest improvements in code structure and organization.
+- Provide styling and layout ideas for consistency across pages.
+
+All final code was written, tested, and understood by me.
+AI was used as a learning and debugging assistant rather than
+as a direct source of copied solutions.
+
+------------------------------------------------------------
+4. AI-ASSISTED SECTIONS
+------------------------------------------------------------
+File: fortune/fortune.js       Section: applyTheme() function refactor
+File: stopwatch/stopwatch.js   Section: setInterval/clearInterval logic
+File: todo/todo.js             Section: localStorage save/load logic
+
+------------------------------------------------------------
+5. DECLARATION
+------------------------------------------------------------
+I declare that:
+- This disclosure is complete and accurate
+- I understand all code in my submission
+- I can explain and modify my work if asked
+- I take full responsibility for my submission
+
+Signature: MD. Lutfur Rahman
+Date: 07/06/2026
